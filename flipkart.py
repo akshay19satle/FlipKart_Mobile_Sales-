@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 st.title("📊 Flipkart Mobile Sales Dashboard")
 st.subheader("📈 Flipkart Mobile Sales Data")
 
-df=pd.read_csv('c:/Users/HP/Documents/akshay data analysis/Flipkart_Mobiles_Cleaned.csv')
+df=pd.read_csv('Flipkart_Mobiles_Cleaned.csv')
 df
 
 # sidebar
