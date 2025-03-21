@@ -36,10 +36,13 @@ Created a Streamlit app (flipkart.py) to visualize the data interactively.
 Added sidebar filters amd visuals. Enabled dynamic user interaction to explore data insights. Packaged the project and made it available for easy execution through Streamlit.
 
 ## Insights
-1) The highest number of models sold are from [Top Brand].
-2) [Top Color] is the most preferred color by customers.
+1) The highest number of models sold are from Top Brand.
+2) Top Color is the most preferred color by customers.
 3) Higher storage models generally have higher selling prices.
-4) The average rating is highest for [Brand] models.
+4) The average rating is highest for Brand models.
 5) Impact of discounts on customer purchase decisions.
+
+## Streamlit app link:
+https://aj6tvhjpjyzbkkrswjgetk.streamlit.app/
 
 
